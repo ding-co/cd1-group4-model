@@ -1,3 +1,3 @@
 # CapstoneDesign1_Group4
-Capstone Design 1 Group 4 
-accident risk prediction probability model
+Capstone Design1 Group 4 
+Accident risk prediction probability model using Machine Learning - Scikit Learn
