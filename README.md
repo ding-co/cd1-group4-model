@@ -1,3 +1,3 @@
 # CapstoneDesign1_Group4
 Accident risk prediction probability model 
-using Machine Learning Scikit-Learn in Jupyter Notebook
+using Machine Learning Scikit-Learn
